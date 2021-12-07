@@ -1,0 +1,11 @@
+D:\Second Semester\SWE 4202\Library Managment System\bin\Debug\Library Managment System.exe.config
+D:\Second Semester\SWE 4202\Library Managment System\bin\Debug\Library Managment System.exe
+D:\Second Semester\SWE 4202\Library Managment System\bin\Debug\Library Managment System.pdb
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.csproj.AssemblyReference.cache
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.csproj.SuggestedBindingRedirects.cache
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library_Managment_System.Form1.resources
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library_Managment_System.Properties.Resources.resources
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.csproj.GenerateResource.cache
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.csproj.CoreCompileInputs.cache
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.exe
+D:\Second Semester\SWE 4202\Library Managment System\obj\Debug\Library Managment System.pdb
