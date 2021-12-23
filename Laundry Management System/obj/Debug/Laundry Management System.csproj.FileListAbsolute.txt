@@ -1,0 +1,11 @@
+D:\Second Semester\SWE 4202\Laundry Management System\bin\Debug\Laundry Management System.exe.config
+D:\Second Semester\SWE 4202\Laundry Management System\bin\Debug\Laundry Management System.exe
+D:\Second Semester\SWE 4202\Laundry Management System\bin\Debug\Laundry Management System.pdb
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.csproj.AssemblyReference.cache
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.csproj.SuggestedBindingRedirects.cache
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry_Management_System.Form1.resources
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry_Management_System.Properties.Resources.resources
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.csproj.GenerateResource.cache
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.csproj.CoreCompileInputs.cache
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.exe
+D:\Second Semester\SWE 4202\Laundry Management System\obj\Debug\Laundry Management System.pdb
