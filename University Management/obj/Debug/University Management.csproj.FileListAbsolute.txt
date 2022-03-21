@@ -1,0 +1,11 @@
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.csproj.AssemblyReference.cache
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.csproj.SuggestedBindingRedirects.cache
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University_Management.Form1.resources
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University_Management.Properties.Resources.resources
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.csproj.GenerateResource.cache
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.csproj.CoreCompileInputs.cache
+D:\Second Semester\SWE 4202\University Management\bin\Debug\University Management.exe.config
+D:\Second Semester\SWE 4202\University Management\bin\Debug\University Management.exe
+D:\Second Semester\SWE 4202\University Management\bin\Debug\University Management.pdb
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.exe
+D:\Second Semester\SWE 4202\University Management\obj\Debug\University Management.pdb
