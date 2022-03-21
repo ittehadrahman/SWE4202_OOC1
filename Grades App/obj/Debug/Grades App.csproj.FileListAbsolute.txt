@@ -1,0 +1,11 @@
+D:\Second Semester\SWE 4202\Grades App\bin\Debug\Grades App.exe.config
+D:\Second Semester\SWE 4202\Grades App\bin\Debug\Grades App.exe
+D:\Second Semester\SWE 4202\Grades App\bin\Debug\Grades App.pdb
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.csproj.AssemblyReference.cache
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.csproj.SuggestedBindingRedirects.cache
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades_App.Form1.resources
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades_App.Properties.Resources.resources
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.csproj.GenerateResource.cache
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.csproj.CoreCompileInputs.cache
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.exe
+D:\Second Semester\SWE 4202\Grades App\obj\Debug\Grades App.pdb
