@@ -1,0 +1,11 @@
+F:\CSV\bin\Debug\CSV.exe.config
+F:\CSV\bin\Debug\CSV.exe
+F:\CSV\bin\Debug\CSV.pdb
+F:\CSV\obj\Debug\CSV.csproj.AssemblyReference.cache
+F:\CSV\obj\Debug\CSV.csproj.SuggestedBindingRedirects.cache
+F:\CSV\obj\Debug\CSV.Form1.resources
+F:\CSV\obj\Debug\CSV.Properties.Resources.resources
+F:\CSV\obj\Debug\CSV.csproj.GenerateResource.cache
+F:\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+F:\CSV\obj\Debug\CSV.exe
+F:\CSV\obj\Debug\CSV.pdb
